@@ -1481,6 +1481,10 @@ section#platform.section {
 .link.link--accent-bold:active{
     color:#f0354e
 }
+
+.ico-spc{
+  padding:0px 2px 0px 2px;
+}
 .logo{
     text-align:center
 }
