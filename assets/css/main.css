@@ -2644,14 +2644,15 @@ section#platform.section {
     }
 }
 .opportunities .opportunities__opportunity{
-    max-width:360px;
+    max-width:90%;
     margin-bottom:70px
 }
 .opportunities .opportunities__title{
     font-size:18px;
     line-height:28px;
     color:#4c6280;
-    padding-bottom:15px;
+    padding-top:30px;
+    padding-bottom:0px;
     border-bottom:1px solid #ceddf2;
     position:relative
 }
