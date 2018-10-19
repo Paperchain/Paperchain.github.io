@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: paperchain.io
+Token: 38552ad71fa0c0243603938db9a3dbb0a36ecb6d75fc9fe59704ae05c32ddd23
