@@ -1064,7 +1064,7 @@ section#platform.section {
     color:#fff;
 }
 .section.section--light{
-    background: #fdfdfd url(../img/img_bg_pattern_light.png) top center no-repeat;
+    background: #fdfdfd url(../img/img_bg_pattern_light.jpg) top center no-repeat;
 	background-size: cover;
     padding-top:130px;
 }
@@ -1072,7 +1072,7 @@ section#platform.section {
     margin-bottom: 50px;
 }
 .section.section--purple{
-    background: #6503ff url(../img/img_bg_pattern_purple.png) top center no-repeat;
+    background: #6503ff url(../img/img_bg_pattern_purple.jpg) top center no-repeat;
 	background-size: cover;
     padding-top:200px;
     margin-bottom:200px;
@@ -1099,7 +1099,7 @@ section#platform.section {
     margin: 20px 0px 0px 0px;
 }
 .section.section--dark{
-    background: #323144 url(../img/img_bg_pattern_dark.png) top center no-repeat;
+    background: #323144 url(../img/img_bg_pattern_dark.jpg) top center no-repeat;
 	background-size: cover;
     padding-top:200px;
     margin-bottom:125px;
